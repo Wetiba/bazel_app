@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="classes_and_libs_merged84" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation" level="project" />
+    <orderEntry type="library" name="android-33" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental1" level="project" />
+    <orderEntry type="library" name="android-29" level="project" />
+    <orderEntry type="library" name="android-311" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.02" level="project" />
+    <orderEntry type="library" name="android-291" level="project" />
+    <orderEntry type="library" name="java_tools" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged41" level="project" />
+    <orderEntry type="library" name="android-32" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.01" level="project" />
+    <orderEntry type="library" name="junit-4.13" level="project" />
+    <orderEntry type="library" name="junit-4.131" level="project" />
+    <orderEntry type="library" name="android-30" level="project" />
+    <orderEntry type="library" name="android-301" level="project" />
+    <orderEntry type="library" name="java_tools1" level="project" />
+    <orderEntry type="library" name="android-321" level="project" />
+    <orderEntry type="library" name="annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="classes76" level="project" />
+    <orderEntry type="library" name="android-331" level="project" />
+    <orderEntry type="library" name="android-28" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="classes57" level="project" />
+    <orderEntry type="library" name="android_tools1" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental" level="project" />
+    <orderEntry type="library" name="android-31" level="project" />
+    <orderEntry type="library" name="annotation-1.3.01" level="project" />
+    <orderEntry type="library" name="main1" level="project" />
+    <orderEntry type="library" name="template_app_lib" level="project" />
+    <orderEntry type="library" name="classes48" level="project" />
+    <orderEntry type="library" name="android_tools" level="project" />
+    <orderEntry type="library" name="android-281" level="project" />
+    <orderEntry type="library" name="main" level="project" />
+    <orderEntry type="library" name="classes41" level="project" />
+    <orderEntry type="library" name="android-301" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.01" level="project" />
+    <orderEntry type="library" name="junit-4.131" level="project" />
+    <orderEntry type="library" name="android-311" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged29" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental1" level="project" />
+    <orderEntry type="library" name="template_app_lib" level="project" />
+    <orderEntry type="library" name="android-29" level="project" />
+    <orderEntry type="library" name="android-291" level="project" />
+    <orderEntry type="library" name="annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental" level="project" />
+    <orderEntry type="library" name="android-33" level="project" />
+    <orderEntry type="library" name="android-30" level="project" />
+    <orderEntry type="library" name="main" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged63" level="project" />
+    <orderEntry type="library" name="android-321" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="android-331" level="project" />
+    <orderEntry type="library" name="classes61" level="project" />
+    <orderEntry type="library" name="android_tools1" level="project" />
+    <orderEntry type="library" name="java_tools1" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation" level="project" />
+    <orderEntry type="library" name="android-32" level="project" />
+    <orderEntry type="library" name="junit-4.13" level="project" />
+    <orderEntry type="library" name="android-28" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.02" level="project" />
+    <orderEntry type="library" name="android-281" level="project" />
+    <orderEntry type="library" name="android_tools" level="project" />
+    <orderEntry type="library" name="java_tools" level="project" />
+    <orderEntry type="library" name="main1" level="project" />
+    <orderEntry type="library" name="annotation-1.3.01" level="project" />
+    <orderEntry type="library" name="android-31" level="project" />
+    <orderEntry type="library" name="android-33" level="project" />
+    <orderEntry type="library" name="junit-4.13" level="project" />
+    <orderEntry type="library" name="android-30" level="project" />
+    <orderEntry type="library" name="template_app_lib" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation1" level="project" />
+    <orderEntry type="library" name="annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="main4" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental2" level="project" />
+    <orderEntry type="library" name="main1" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation" level="project" />
+    <orderEntry type="library" name="java_tools" level="project" />
+    <orderEntry type="library" name="android-28" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.01" level="project" />
+    <orderEntry type="library" name="android-32" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental3" level="project" />
+    <orderEntry type="library" name="android-31" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental" level="project" />
+    <orderEntry type="library" name="template_app_lib1" level="project" />
+    <orderEntry type="library" name="classes47" level="project" />
+    <orderEntry type="library" name="android-29" level="project" />
+    <orderEntry type="library" name="androidx_annotation_annotation_experimental1" level="project" />
+    <orderEntry type="library" name="main" level="project" />
+    <orderEntry type="library" name="stamped_annotation-1.3.0" level="project" />
+    <orderEntry type="library" name="main2" level="project" />
+    <orderEntry type="library" name="android_tools" level="project" />
+    <orderEntry type="library" name="classes39" level="project" />
+    <orderEntry type="library" name="main3" level="project" />
+    <orderEntry type="module" module-name="main3" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="main1" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="main1" />
+    <orderEntry type="module" module-name="main3" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="main3" />
+    <orderEntry type="module" module-name="main1" />
+  </component>
+</module>

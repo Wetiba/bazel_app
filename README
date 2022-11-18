@@ -1,0 +1,8 @@
+Run to build
+bazel build //src/main:template_app
+
+Install the apk by
+bazel mobile-install //src/main:template_app
+
+bazel test run (Robolectric)
+$ bazel test //src/test:all
